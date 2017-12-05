@@ -17,7 +17,6 @@ class Scanner(object):
     grade sheet file names,
     and panda data tables for grading
     '''
-    
     def __init__(self, input_file, quests, markmissing, openQ, ignores):
         '''
         retrieve values from the gui (or call from command line)
@@ -36,7 +35,6 @@ class Scanner(object):
             self.ignores=list(ast.literal_eval(ignores))
         else:
             self.ignores=None
-        # pull settings into scanner object
         self.scan_settings=Settings()
         # initialize file and pathnames (and split pdfs into jpgs)
         self.path, self.image_list = init_functions.filenames(input_file)

@@ -92,7 +92,7 @@ def autothresh(aligned_img, scan_settings):
 def scanDots(img, areaDict, ignores, convDict):
     '''
     scans an aligned and thresholded image in the areas of areaDict
-    returns a dictionary of results
+    returns a dictionry of results
     '''
     resDict = areaDict.fromkeys(areaDict,'-')
     #going through each search area, where k is the name and v are the search area coordinates    
