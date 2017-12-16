@@ -1,0 +1,6 @@
+index,LastName,FirstName,studentID,Q001,Q002,Q003,Q004,Q005,openQ_1,openQ_2,score,partialscore
+0,KEY--,A--,--------,A,BC,AC,D,A,CC,CC,0,0.0
+1,LANGE,MAT,--------,A,ABC,AB,D,A,XX,CC,4,4.5
+2,TRUIT,MON,--------,A,A,AB,C,A,CX,CC,3,3.0
+3,SAUND,SAR,--------,A,ABC,AB,B,A,CC,CX,3,3.5
+numb_correct,0,0,0,3,0,0,1,3,1,2,0,0.0
