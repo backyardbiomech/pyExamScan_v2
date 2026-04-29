@@ -1,0 +1,502 @@
+{
+  "openQ_1": {
+    "1": [
+      "venal pelvis",
+      0.9
+    ],
+    "2": [
+      "prostate gland",
+      0.9
+    ]
+  },
+  "openQ_2": {
+    "1": [
+      "renal pyramid",
+      0.9
+    ],
+    "2": [
+      "ductus deferens",
+      0.9
+    ]
+  },
+  "openQ_3": {
+    "1": [
+      "renal cortex",
+      0.9
+    ],
+    "2": [
+      "vulva",
+      0.9
+    ]
+  },
+  "openQ_4": {
+    "1": [
+      "renal medulla",
+      0.9
+    ],
+    "2": [
+      "mons pubis",
+      0.9
+    ]
+  },
+  "openQ_5": {
+    "1": [
+      "urethera",
+      0.9
+    ],
+    "2": [
+      "Vermiform appendix",
+      0.9
+    ]
+  },
+  "openQ_6": {
+    "1": [
+      "kidney",
+      0.9
+    ],
+    "2": [
+      "transverse colon",
+      0.9
+    ]
+  },
+  "openQ_7": {
+    "1": [
+      "Simple Cuboidal microvilli",
+      0.9
+    ],
+    "2": [
+      "liver",
+      0.9
+    ]
+  },
+  "openQ_8": {
+    "1": [
+      "efferent",
+      0.9
+    ],
+    "2": [
+      "esophagus",
+      0.9
+    ]
+  },
+  "openQ_9": {
+    "1": [
+      "ureters",
+      0.9
+    ],
+    "2": [
+      "pancreas",
+      0.9
+    ]
+  },
+  "openQ_10": {
+    "1": [
+      "urinary bladder",
+      0.9
+    ],
+    "2": [
+      "fundus (head)",
+      0.9
+    ]
+  },
+  "openQ_11": {
+    "1": [
+      "afferent arteriole",
+      0.9
+    ],
+    "2": [
+      "gallbladder",
+      0.9
+    ]
+  },
+  "openQ_12": {
+    "1": [
+      "[?]",
+      0.9
+    ],
+    "2": [
+      "Small intestines",
+      0.9
+    ]
+  },
+  "openQ_13": {
+    "1": [
+      "proteins",
+      0.9
+    ],
+    "2": [
+      "rugae",
+      0.9
+    ]
+  },
+  "openQ_14": {
+    "1": [
+      "carbohydrates",
+      0.9
+    ],
+    "2": [
+      "pyloric sphincter",
+      0.9
+    ]
+  },
+  "openQ_15": {
+    "1": [
+      "glucose",
+      0.9
+    ],
+    "2": [
+      "ARDS",
+      0.9
+    ]
+  },
+  "openQ_16": {
+    "1": [
+      "Starches",
+      0.9
+    ],
+    "2": [
+      "Tongue",
+      0.9
+    ]
+  },
+  "openQ_17": {
+    "1": [
+      "Fallopian tubes",
+      0.9
+    ],
+    "2": [
+      "bile",
+      0.9
+    ]
+  },
+  "openQ_18": {
+    "1": [
+      "Cervix",
+      0.9
+    ],
+    "2": [
+      "pancreatic [?] vessels",
+      0.9
+    ]
+  },
+  "openQ_19": {
+    "1": [
+      "labia majora",
+      0.9
+    ],
+    "2": [
+      "simple columnar epithelium",
+      0.9
+    ]
+  },
+  "openQ_20": {
+    "1": [
+      "labia minora",
+      0.9
+    ],
+    "2": [
+      "mamm[?]n",
+      0.9
+    ]
+  },
+  "openQ_21": {
+    "1": [
+      "rectum",
+      0.9
+    ],
+    "2": [
+      "",
+      0.0
+    ]
+  },
+  "openQ_22": {
+    "1": [
+      "Longwood ID number",
+      0.9
+    ],
+    "2": [
+      "uterus",
+      0.9
+    ]
+  },
+  "openQ_23": {
+    "1": [
+      "[?]",
+      0.9
+    ],
+    "2": [
+      "Ovary",
+      0.9
+    ]
+  },
+  "openQ_24": {
+    "1": [
+      "V W X Y Z V W X Y Z V W X Y Z",
+      0.9
+    ],
+    "2": [
+      "Broad ligament",
+      0.9
+    ]
+  },
+  "openQ_25": {
+    "1": [
+      "ABCDE",
+      0.9
+    ],
+    "2": [
+      "descending colon",
+      0.9
+    ]
+  },
+  "openQ_26": {
+    "1": [
+      "",
+      0.0
+    ],
+    "2": [
+      "",
+      0.0
+    ]
+  },
+  "openQ_27": {
+    "1": [
+      "[?]",
+      0.9
+    ],
+    "2": [
+      "[?]",
+      0.9
+    ]
+  },
+  "openQ_28": {
+    "1": [
+      "W X Y Z V W X Z V W X Z",
+      0.9
+    ],
+    "2": [
+      "penis",
+      0.9
+    ]
+  },
+  "openQ_29": {
+    "1": [
+      "on",
+      0.9
+    ],
+    "2": [
+      "PROSTATE gland",
+      0.9
+    ]
+  },
+  "openQ_30": {
+    "1": [
+      "",
+      0.9
+    ],
+    "2": [
+      "scrotum",
+      0.9
+    ]
+  },
+  "openQ_31": {
+    "1": [
+      "renal pelvis",
+      0.9
+    ],
+    "2": [
+      "ureter",
+      0.9
+    ]
+  },
+  "openQ_32": {
+    "1": [
+      "renal pyramid",
+      0.9
+    ],
+    "2": [
+      "ductus deferens",
+      0.9
+    ]
+  },
+  "openQ_33": {
+    "1": [
+      "cortex",
+      0.9
+    ],
+    "2": [
+      "vagina",
+      0.9
+    ]
+  },
+  "openQ_34": {
+    "1": [
+      "medulla",
+      0.9
+    ],
+    "2": [
+      "mons pubis",
+      0.9
+    ]
+  },
+  "openQ_35": {
+    "1": [
+      "urethra",
+      0.9
+    ],
+    "2": [
+      "vermiform appendix",
+      0.9
+    ]
+  },
+  "openQ_36": {
+    "1": [
+      "kidney",
+      0.9
+    ],
+    "2": [
+      "transverse colon",
+      0.9
+    ]
+  },
+  "openQ_37": {
+    "1": [
+      "simple squamous",
+      0.9
+    ],
+    "2": [
+      "liver",
+      0.9
+    ]
+  },
+  "openQ_38": {
+    "1": [
+      "glomerular capillary",
+      0.9
+    ],
+    "2": [
+      "esophagus",
+      0.9
+    ]
+  },
+  "openQ_39": {
+    "1": [
+      "ureter",
+      0.9
+    ],
+    "2": [
+      "pancreas",
+      0.9
+    ]
+  },
+  "openQ_40": {
+    "1": [
+      "urinary bladder",
+      0.9
+    ],
+    "2": [
+      "Head of pancreas",
+      0.9
+    ]
+  },
+  "openQ_41": {
+    "1": [
+      "offcerent arteriole",
+      0.9
+    ],
+    "2": [
+      "aaalladder",
+      0.9
+    ]
+  },
+  "openQ_42": {
+    "1": [
+      "glomerular capillaries",
+      0.9
+    ],
+    "2": [
+      "Small intestine",
+      0.9
+    ]
+  },
+  "openQ_43": {
+    "1": [
+      "carbohydrates",
+      0.9
+    ],
+    "2": [
+      "rugae",
+      0.9
+    ]
+  },
+  "openQ_44": {
+    "1": [
+      "proteins",
+      0.9
+    ],
+    "2": [
+      "phrenic sphincter",
+      0.9
+    ]
+  },
+  "openQ_45": {
+    "1": [
+      "lipids",
+      0.9
+    ],
+    "2": [
+      "anus",
+      0.9
+    ]
+  },
+  "openQ_46": {
+    "1": [
+      "glucose",
+      0.9
+    ],
+    "2": [
+      "tongue",
+      0.9
+    ]
+  },
+  "openQ_47": {
+    "1": [
+      "uterine tube",
+      0.9
+    ],
+    "2": [
+      "Bile",
+      0.9
+    ]
+  },
+  "openQ_48": {
+    "1": [
+      "body of uterus (endome",
+      0.9
+    ],
+    "2": [
+      "pancreatic lipase",
+      0.9
+    ]
+  },
+  "openQ_49": {
+    "1": [
+      "labia majora",
+      0.9
+    ],
+    "2": [
+      "Simple Squamous",
+      0.9
+    ]
+  },
+  "openQ_50": {
+    "1": [
+      "labia minora",
+      0.9
+    ],
+    "2": [
+      "onarmyx",
+      0.9
+    ]
+  }
+}

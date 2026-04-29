@@ -1,0 +1,607 @@
+{
+  "openQ_24": {
+    "full": [
+      "ovary"
+    ],
+    "partial": [],
+    "coords": [
+      670,
+      268,
+      1162,
+      348
+    ]
+  },
+  "openQ_35": {
+    "full": [
+      "appendix"
+    ],
+    "partial": [],
+    "coords": [
+      126,
+      796,
+      620,
+      874
+    ]
+  },
+  "openQ_18": {
+    "full": [
+      "body"
+    ],
+    "partial": [],
+    "coords": [
+      672,
+      1302,
+      1170,
+      1376
+    ]
+  },
+  "openQ_5": {
+    "full": [
+      "urethra"
+    ],
+    "partial": [],
+    "coords": [
+      128,
+      784,
+      624,
+      860
+    ]
+  },
+  "openQ_11": {
+    "full": [
+      "afferent arteriole"
+    ],
+    "partial": [],
+    "coords": [
+      130,
+      1044,
+      624,
+      1120
+    ]
+  },
+  "openQ_6": {
+    "full": [
+      "kidney"
+    ],
+    "partial": [],
+    "coords": [
+      672,
+      786,
+      1168,
+      862
+    ]
+  },
+  "openQ_37": {
+    "full": [
+      "liver"
+    ],
+    "partial": [],
+    "coords": [
+      124,
+      884,
+      622,
+      962
+    ]
+  },
+  "openQ_25": {
+    "full": [
+      "descending colon"
+    ],
+    "partial": [],
+    "coords": [
+      126,
+      358,
+      622,
+      432
+    ]
+  },
+  "openQ_30": {
+    "full": [
+      "scrotum"
+    ],
+    "partial": [],
+    "coords": [
+      668,
+      532,
+      1166,
+      612
+    ]
+  },
+  "openQ_39": {
+    "full": [
+      "pancreas"
+    ],
+    "partial": [],
+    "coords": [
+      126,
+      970,
+      622,
+      1052
+    ]
+  },
+  "openQ_7": {
+    "full": [
+      "simple squamous epithelium"
+    ],
+    "partial": [],
+    "coords": [
+      126,
+      870,
+      624,
+      948
+    ]
+  },
+  "openQ_14": {
+    "full": [
+      "carbohydrates"
+    ],
+    "partial": [],
+    "coords": [
+      674,
+      1126,
+      1170,
+      1206
+    ]
+  },
+  "openQ_45": {
+    "full": [
+      "anus"
+    ],
+    "partial": [],
+    "coords": [
+      124,
+      1236,
+      620,
+      1312
+    ]
+  },
+  "openQ_29": {
+    "full": [
+      "seminal vesicle"
+    ],
+    "partial": [],
+    "coords": [
+      126,
+      534,
+      622,
+      610
+    ]
+  },
+  "openQ_15": {
+    "full": [
+      "amylose",
+      "starch"
+    ],
+    "partial": [],
+    "coords": [
+      128,
+      1216,
+      628,
+      1294
+    ]
+  },
+  "openQ_36": {
+    "full": [
+      "transverse colon"
+    ],
+    "partial": [],
+    "coords": [
+      670,
+      796,
+      1162,
+      874
+    ]
+  },
+  "openQ_33": {
+    "full": [
+      "vulva"
+    ],
+    "partial": [],
+    "coords": [
+      122,
+      706,
+      618,
+      788
+    ]
+  },
+  "openQ_31": {
+    "full": [
+      "prostate gland"
+    ],
+    "partial": [],
+    "coords": [
+      126,
+      622,
+      622,
+      698
+    ]
+  },
+  "openQ_40": {
+    "full": [
+      "duodenum"
+    ],
+    "partial": [],
+    "coords": [
+      672,
+      974,
+      1162,
+      1050
+    ]
+  },
+  "openQ_49": {
+    "full": [
+      "simple columnar epithelium"
+    ],
+    "partial": [],
+    "coords": [
+      124,
+      1414,
+      622,
+      1490
+    ]
+  },
+  "openQ_10": {
+    "full": [
+      "urinary bladder"
+    ],
+    "partial": [],
+    "coords": [
+      672,
+      956,
+      1168,
+      1036
+    ]
+  },
+  "openQ_28": {
+    "full": [
+      "penis"
+    ],
+    "partial": [],
+    "coords": [
+      668,
+      444,
+      1162,
+      524
+    ]
+  },
+  "openQ_50": {
+    "full": [
+      "pharynx"
+    ],
+    "partial": [],
+    "coords": [
+      672,
+      1412,
+      1164,
+      1492
+    ]
+  },
+  "openQ_3": {
+    "full": [
+      "ureter"
+    ],
+    "partial": [],
+    "coords": [
+      128,
+      698,
+      624,
+      776
+    ]
+  },
+  "openQ_26": {
+    "full": [
+      "ascending colon"
+    ],
+    "partial": [],
+    "coords": [
+      670,
+      358,
+      1164,
+      436
+    ]
+  },
+  "openQ_47": {
+    "full": [
+      "bile"
+    ],
+    "partial": [],
+    "coords": [
+      126,
+      1322,
+      620,
+      1402
+    ]
+  },
+  "openQ_12": {
+    "full": [
+      "vasa recta"
+    ],
+    "partial": [],
+    "coords": [
+      674,
+      1042,
+      1168,
+      1122
+    ]
+  },
+  "openQ_1": {
+    "full": [
+      "renal pelvis"
+    ],
+    "partial": [],
+    "coords": [
+      130,
+      616,
+      624,
+      690
+    ]
+  },
+  "openQ_8": {
+    "full": [
+      "fenestrated capillary"
+    ],
+    "partial": [],
+    "coords": [
+      672,
+      870,
+      1170,
+      948
+    ]
+  },
+  "openQ_22": {
+    "full": [
+      "uterus"
+    ],
+    "partial": [],
+    "coords": [
+      672,
+      180,
+      1166,
+      262
+    ]
+  },
+  "openQ_42": {
+    "full": [
+      "small intestine"
+    ],
+    "partial": [],
+    "coords": [
+      668,
+      1060,
+      1162,
+      1138
+    ]
+  },
+  "openQ_16": {
+    "full": [
+      "sugars",
+      "monosaccharides",
+      "glucose"
+    ],
+    "partial": [],
+    "coords": [
+      674,
+      1216,
+      1168,
+      1294
+    ]
+  },
+  "openQ_48": {
+    "full": [
+      "pancreatic lipase"
+    ],
+    "partial": [],
+    "coords": [
+      670,
+      1326,
+      1164,
+      1402
+    ]
+  },
+  "openQ_21": {
+    "full": [
+      "rectum"
+    ],
+    "partial": [],
+    "coords": [
+      124,
+      180,
+      622,
+      260
+    ]
+  },
+  "openQ_46": {
+    "full": [
+      "tongue"
+    ],
+    "partial": [],
+    "coords": [
+      670,
+      1234,
+      1164,
+      1318
+    ]
+  },
+  "openQ_27": {
+    "full": [
+      "glans penis"
+    ],
+    "partial": [],
+    "coords": [
+      122,
+      444,
+      620,
+      520
+    ]
+  },
+  "openQ_41": {
+    "full": [
+      "gall bladder"
+    ],
+    "partial": [],
+    "coords": [
+      124,
+      1060,
+      622,
+      1136
+    ]
+  },
+  "openQ_4": {
+    "full": [
+      "medulla",
+      "renal medulla"
+    ],
+    "partial": [],
+    "coords": [
+      672,
+      698,
+      1168,
+      778
+    ]
+  },
+  "openQ_9": {
+    "full": [
+      "ureter"
+    ],
+    "partial": [],
+    "coords": [
+      128,
+      956,
+      626,
+      1036
+    ]
+  },
+  "openQ_32": {
+    "full": [
+      "ejaculatory duct"
+    ],
+    "partial": [],
+    "coords": [
+      668,
+      618,
+      1162,
+      698
+    ]
+  },
+  "openQ_20": {
+    "full": [
+      "labia minora"
+    ],
+    "partial": [],
+    "coords": [
+      674,
+      1386,
+      1170,
+      1464
+    ]
+  },
+  "openQ_44": {
+    "full": [
+      "pyloric sphincter"
+    ],
+    "partial": [],
+    "coords": [
+      670,
+      1148,
+      1164,
+      1228
+    ]
+  },
+  "openQ_2": {
+    "full": [
+      "renal pyramid"
+    ],
+    "partial": [],
+    "coords": [
+      672,
+      612,
+      1170,
+      692
+    ]
+  },
+  "openQ_13": {
+    "full": [
+      "protein"
+    ],
+    "partial": [],
+    "coords": [
+      128,
+      1128,
+      624,
+      1208
+    ]
+  },
+  "openQ_17": {
+    "full": [
+      "uterine tube",
+      "Fallopian tubes"
+    ],
+    "partial": [],
+    "coords": [
+      130,
+      1300,
+      624,
+      1378
+    ]
+  },
+  "openQ_34": {
+    "full": [
+      "mons pubis"
+    ],
+    "partial": [],
+    "coords": [
+      668,
+      708,
+      1162,
+      784
+    ]
+  },
+  "openQ_38": {
+    "full": [
+      "ureter"
+    ],
+    "partial": [],
+    "coords": [
+      668,
+      886,
+      1166,
+      966
+    ]
+  },
+  "openQ_43": {
+    "full": [
+      "rugae"
+    ],
+    "partial": [],
+    "coords": [
+      124,
+      1150,
+      620,
+      1228
+    ]
+  },
+  "openQ_19": {
+    "full": [
+      "labia majora"
+    ],
+    "partial": [],
+    "coords": [
+      128,
+      1386,
+      624,
+      1464
+    ]
+  },
+  "openQ_23": {
+    "full": [
+      "fimbriae"
+    ],
+    "partial": [],
+    "coords": [
+      124,
+      268,
+      620,
+      344
+    ]
+  }
+}
